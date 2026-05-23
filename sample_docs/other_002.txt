@@ -1,0 +1,29 @@
+MEETING MINUTES
+Project: Phoenix Digital Transformation
+Date: January 28, 2025 | Time: 10:00 AM – 11:30 AM
+Location: Conference Room B, Head Office
+Facilitator: Amna Siddiqui, Project Manager
+
+ATTENDEES
+Amna Siddiqui (PM), Bilal Raza (Tech Lead), Sana Mir (QA), Tariq Hassan (Business Analyst), Rida Fatima (UX Designer)
+
+AGENDA & DISCUSSION
+
+1. Sprint 4 Review
+   Bilal reported that 14 of 17 user stories were completed. Remaining 3 stories deferred to Sprint 5 due to dependency on third-party API.
+
+2. UAT Planning
+   Sana presented UAT test plan covering 120 test cases across 8 modules. UAT to begin February 10, 2025.
+
+3. Go-Live Date
+   Discussed risk of March 1 go-live. Team agreed to reassess after UAT completion.
+
+4. Budget Update
+   Tariq flagged a 12% cost overrun in infrastructure procurement. CFO to be briefed separately.
+
+ACTION ITEMS
+- Bilal: Complete deferred stories by Feb 5
+- Sana: Share UAT scripts with stakeholders by Feb 7
+- Amna: Schedule CFO briefing before Feb 3
+
+NEXT MEETING: February 4, 2025 at 10:00 AM

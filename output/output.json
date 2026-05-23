@@ -1,0 +1,174 @@
+{
+  "invoice_001.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-2025-0041",
+    "date": "15/01/2025",
+    "company": "Orion Retail Group",
+    "total_amount": 6180.0
+  },
+  "invoice_002.txt": {
+    "class": "Invoice",
+    "invoice_number": "AC-INV-8821",
+    "date": "February 3, 2025",
+    "company": "Alpha Consulting Group Inc.",
+    "total_amount": 9605.0
+  },
+  "invoice_003.txt": {
+    "class": "Invoice",
+    "invoice_number": "BSE-0099",
+    "date": "2025-01-28",
+    "company": "Horizon Corporation Ltd.",
+    "total_amount": 415935.0
+  },
+  "invoice_004.txt": {
+    "class": "Invoice",
+    "invoice_number": "CWT-2025-JAN-114",
+    "date": "January 10, 2025",
+    "company": "DataVault Inc.",
+    "total_amount": 19665.0
+  },
+  "invoice_005.txt": {
+    "class": "Invoice",
+    "invoice_number": "GLP-441",
+    "date": "03-Feb-2025",
+    "company": "GREEN LEAF PRINTING PRESS",
+    "total_amount": 262500.0
+  },
+  "invoice_006.txt": {
+    "class": "Invoice",
+    "invoice_number": "MTS-INV-3301",
+    "date": "20 January 2025",
+    "company": "Al Zahra Private Hospital",
+    "total_amount": 16432.5
+  },
+  "invoice_1.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-1234",
+    "date": "2025-01-15",
+    "company": "Beta Technologies LLC",
+    "total_amount": 350.5
+  },
+  "invoice_2.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-5678",
+    "date": "March 3, 2025",
+    "company": "Sunrise Consulting Group",
+    "total_amount": 2400.0
+  },
+  "other_001.txt": {
+    "class": "Other"
+  },
+  "other_002.txt": {
+    "class": "Other"
+  },
+  "other_1.txt": {
+    "class": "Other"
+  },
+  "other_2.txt": {
+    "class": "Other"
+  },
+  "resume_001.txt": {
+    "class": "Resume",
+    "name": "Sara Ahmed",
+    "email": "sara.ahmed@gmail.com",
+    "phone": "333-5678901",
+    "experience_years": 4
+  },
+  "resume_002.txt": {
+    "class": "Resume",
+    "name": "Michael Okonkwo",
+    "email": "m.okonkwo@outlook.com",
+    "phone": "+447911234567",
+    "experience_years": 7
+  },
+  "resume_003.txt": {
+    "class": "Resume",
+    "name": "Fatima Al-Rashidi",
+    "email": "fatima.alrashidi@email.com",
+    "phone": "+971-50-987-6543",
+    "experience_years": 6
+  },
+  "resume_004.txt": {
+    "class": "Resume",
+    "name": "James Peterson",
+    "email": "james.p@protonmail.com",
+    "phone": "(312)555-0182",
+    "experience_years": 11
+  },
+  "resume_005.txt": {
+    "class": "Resume",
+    "name": "Aisha Malik",
+    "email": "aisha.malik92@yahoo.com",
+    "phone": "0300-1234567",
+    "experience_years": 3
+  },
+  "resume_1.txt": {
+    "class": "Resume",
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "(123)456-7890",
+    "experience_years": 5
+  },
+  "resume_2.txt": {
+    "class": "Resume",
+    "name": "Jane Smith",
+    "email": "jane.smith@gmail.com",
+    "phone": "987-654-3210",
+    "experience_years": 8
+  },
+  "unclassifiable_001.txt": {
+    "class": "Unclassifiable"
+  },
+  "unclassifiable_002.txt": {
+    "class": "Unclassifiable"
+  },
+  "utility_bill_001.txt": {
+    "class": "Utility Bill",
+    "account_number": "KE-0045-778821-03",
+    "date": "03 February 2025",
+    "usage_kwh": 387.0,
+    "amount_due": 12176.1
+  },
+  "utility_bill_002.txt": {
+    "class": "Utility Bill",
+    "account_number": "SGN-884421-B",
+    "date": "1 February 2025",
+    "usage_kwh": 3168.0,
+    "amount_due": 266.03
+  },
+  "utility_bill_003.txt": {
+    "class": "Utility Bill",
+    "account_number": "F4-0099-221-87",
+    "date": "2025-02-01",
+    "usage_kwh": 413.0,
+    "amount_due": 11354.28
+  },
+  "utility_bill_004.txt": {
+    "class": "Utility Bill",
+    "account_number": "MWSA-00334-78B",
+    "date": "February 15, 2025",
+    "usage_kwh": null,
+    "amount_due": 43.0
+  },
+  "utility_bill_005.txt": {
+    "class": "Utility Bill",
+    "account_number": "NG-77-0098-44321",
+    "date": "Feb 24, 2025",
+    "usage_kwh": 612.0,
+    "amount_due": 139.43
+  },
+  "utility_bill_1.txt": {
+    "class": "Utility Bill",
+    "account_number": "CE-8876543",
+    "date": "February 20, 2025",
+    "usage_kwh": 387.0,
+    "amount_due": 58.0
+  },
+  "utility_bill_2.txt": {
+    "class": "Utility Bill",
+    "account_number": "MWS-00112233",
+    "date": "2025-01-10",
+    "usage_kwh": null,
+    "amount_due": 42.75
+  }
+}

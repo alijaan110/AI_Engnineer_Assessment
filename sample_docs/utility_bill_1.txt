@@ -1,0 +1,25 @@
+CITYWIDE ELECTRIC COMPANY
+Customer Service: 1-800-555-0199
+
+ELECTRIC BILL
+
+Account Number: CE-8876543
+Service Address: 100 Oak Street, Springfield, IL
+
+Billing Period: January 1, 2025 – January 31, 2025
+Statement Date: February 1, 2025
+Due Date: February 20, 2025
+
+Meter Readings:
+  Previous Reading: 14,200 kWh
+  Current Reading:  14,587 kWh
+  Usage:              387 kWh
+
+Charges:
+  Energy Charge (387 kWh × $0.12)     $46.44
+  Distribution Charge                   $8.50
+  Taxes & Fees                          $3.06
+
+Amount Due: $58.00
+
+Please pay by February 20, 2025 to avoid late fees.

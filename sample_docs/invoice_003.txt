@@ -1,0 +1,24 @@
+BRIGHTSTAR EVENTS & CATERING
+Plot 5, Industrial Estate, Karachi 75600
+NTN: 1234567-8
+
+INVOICE
+
+Invoice No: BSE-0099
+Invoice Date: 2025-01-28
+
+Bill To:
+Horizon Corporation Ltd.
+14th Floor, Dolmen Mall, Karachi
+
+Items:
+  Corporate Dinner (150 pax) @ Rs.1,800/head    Rs.270,000
+  Stage Setup & AV Equipment                    Rs.45,000
+  Floral Decoration                             Rs.22,500
+  Waitstaff (10 staff × 8 hrs)                  Rs.18,000
+
+Subtotal:    Rs.355,500
+GST (17%):   Rs.60,435
+Total Due:   Rs.415,935
+
+Payment Instructions: Meezan Bank | IBAN: PK91MEZN0001010123456789

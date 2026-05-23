@@ -1,0 +1,32 @@
+ISLAMABAD ELECTRIC SUPPLY COMPANY
+IESCO Customer Portal: iesco.com.pk
+
+ELECTRICITY BILL / بجلی کا بل
+
+Reference No: IESCO-F4-221-009987
+Account Number: F4-0099-221-87
+Consumer: Dr. Nasreen Akhtar
+Meter No: 4521-A
+
+Address: House 7, Street 22, F-7/1, Islamabad
+
+Billing Month: January 2025
+Issue Date: 2025-02-01
+Due Date: 2025-02-16
+
+Previous Units: 22,410
+Current Units:  22,823
+Units Consumed: 413 kWh
+
+Rate Slab:
+  1–100 units @ Rs.16.00        Rs.1,600.00
+  101–200 units @ Rs.21.00      Rs.2,100.00
+  201–300 units @ Rs.24.00      Rs.2,400.00
+  301–413 units @ Rs.27.00      Rs.3,024.00
+FC:                               Rs.500.00
+NJ Surcharge:                     Rs.412.00
+GST (18%):                      Rs.1,718.28
+
+Amount Due: Rs.11,354.28
+
+Helpline: 051-111-000-118

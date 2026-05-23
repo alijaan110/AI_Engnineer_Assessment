@@ -1,0 +1,23 @@
+ACME Corporation
+123 Business Street, NY 10001
+
+INVOICE
+
+Invoice #: INV-1234
+Invoice Date: 2025-01-15
+Due Date: 2025-02-15
+
+Bill To:
+Beta Technologies LLC
+456 Client Ave, CA 94102
+
+Line Items:
+  Software License (Annual)     $250.00
+  Support Package               $75.00
+  Setup Fee                     $25.50
+
+Subtotal: $350.50
+Tax (0%): $0.00
+Total Amount Due: $350.50
+
+Payment Terms: Net 30

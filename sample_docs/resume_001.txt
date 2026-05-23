@@ -1,0 +1,23 @@
+SARA AHMED
+sara.ahmed@gmail.com | +92-333-5678901 | Karachi, Pakistan
+linkedin.com/in/saraahmed | github.com/sara-dev
+
+PROFESSIONAL SUMMARY
+Full-stack developer with 4 years of experience building scalable web applications using React, Node.js, and PostgreSQL. Passionate about clean code and agile workflows.
+
+WORK EXPERIENCE
+
+Senior Frontend Developer — TechNova Solutions, Karachi (2022 – Present)
+  • Led development of company's flagship SaaS dashboard (50k+ users)
+  • Reduced page load time by 60% through lazy loading and code splitting
+  • Mentored 3 junior developers
+
+Frontend Developer — DigiSoft Ltd., Karachi (2021 – 2022)
+  • Built reusable React component library used across 5 projects
+  • Integrated REST APIs and implemented JWT authentication
+
+EDUCATION
+B.S. Computer Science — NED University of Engineering & Technology, 2021
+
+SKILLS
+React, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, Git, Agile/Scrum

@@ -1,0 +1,25 @@
+MEDITECH SUPPLIES CO.
+44 Health Avenue, Dubai Healthcare City
+TRN: 100234567890123
+
+TAX INVOICE
+
+Invoice Number: MTS-INV-3301
+Invoice Date: 20 January 2025
+Payment Due: 19 February 2025
+
+Bill To:
+Al Zahra Private Hospital
+PO Box 3499, Dubai, UAE
+
+Item Description                    Qty     Unit Price (AED)    Total (AED)
+Surgical Gloves (Box of 100)        200           45.00          9,000.00
+Disposable Syringes 5ml (Box)        50           38.00          1,900.00
+IV Cannula 20G (Box)                 30           85.00          2,550.00
+Sterile Gauze Pads (Pack)           100           22.00          2,200.00
+
+Subtotal:    AED 15,650.00
+VAT (5%):       AED 782.50
+Total Due:   AED 16,432.50
+
+Purchase Order Ref: AZH-PO-2025-018

@@ -1,0 +1,33 @@
+MICHAEL OKONKWO
+m.okonkwo@outlook.com
+Phone: +44 7911 234567
+London, United Kingdom
+
+CURRICULUM VITAE
+
+OBJECTIVE
+Experienced data scientist with 7 years of experience in machine learning, statistical modeling, and big data analytics seeking a senior role in a forward-thinking organisation.
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data Scientist — FinSight Analytics, London (2021 – Present)
+  Developed credit scoring models reducing default rates by 18%
+  Built real-time fraud detection pipeline processing 2M transactions/day
+
+Senior Data Analyst — RetailIQ, Birmingham (2018 – 2021)
+  Delivered customer segmentation analysis boosting campaign ROI by 34%
+
+Data Analyst — StartupBase Ltd (2017 – 2018)
+  Created Tableau dashboards for C-suite weekly reporting
+
+EDUCATION
+MSc Data Science — University of Edinburgh, 2017
+BSc Statistics — University of Lagos, 2015
+
+CERTIFICATIONS
+AWS Certified Machine Learning Specialist
+Google Professional Data Engineer
+Microsoft Azure Data Scientist Associate
+
+SKILLS
+Python, R, SQL, TensorFlow, Spark, Tableau, Azure ML, Scikit-learn

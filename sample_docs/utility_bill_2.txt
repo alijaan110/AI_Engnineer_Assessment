@@ -1,0 +1,15 @@
+METRO WATER SERVICES
+
+Account Number: MWS-00112233
+Bill Date: 2025-01-10
+Due Date: 2025-02-01
+
+Customer: Maria Garcia
+Service Address: 55 River Road
+
+Usage This Period: 120 kWh equivalent (water units)
+Previous Balance: $0.00
+Current Charges: $42.75
+Late Fee if paid after due date: $5.00
+
+Total Amount Due: $42.75

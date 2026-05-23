@@ -1,0 +1,28 @@
+KARACHI ELECTRIC SUPPLY COMPANY (KESC)
+Customer Care: 118 | kesc.com.pk
+
+ELECTRICITY BILL
+
+Account Number: KE-0045-778821-03
+Consumer Name: Muhammad Tariq
+Service Address: House 12, Block 7, PECHS, Karachi
+
+Billing Period: 01 January 2025 – 31 January 2025
+Bill Date: 03 February 2025
+Due Date: 18 February 2025
+
+Meter Readings:
+  Previous:   14,320 kWh
+  Current:    14,707 kWh
+  Usage:         387 kWh
+
+Charges:
+  Energy Charges (387 kWh × Rs.22.50)     Rs.8,707.50
+  Fixed Charges                             Rs.300.00
+  Fuel Price Adjustment                   Rs.1,161.00
+  Electricity Duty (1.5%)                   Rs.152.51
+  GST (18%)                               Rs.1,855.09
+
+Amount Due:  Rs.12,176.10
+
+Last Date: 18-Feb-2025. Disconnection after due date.

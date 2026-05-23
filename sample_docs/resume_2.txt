@@ -1,0 +1,21 @@
+Jane Smith
+jane.smith@gmail.com
+Phone: 987-654-3210
+
+Curriculum Vitae
+
+Objective: Seeking a challenging data scientist role leveraging my 8 years of experience in ML and analytics.
+
+Professional Experience:
+
+Lead Data Scientist — DataDriven Corp (2019 – Present)
+  Developed predictive models increasing revenue by 25%
+
+Data Analyst — Analytics Hub (2017 – 2019)
+  Built dashboards and reports for C-suite executives
+
+Education:
+M.S. Data Science, MIT, 2017
+B.S. Statistics, UCLA, 2015
+
+Certifications: AWS Certified ML Specialist, Google Professional Data Engineer

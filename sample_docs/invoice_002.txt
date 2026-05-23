@@ -1,0 +1,26 @@
+ALPHA CONSULTING GROUP INC.
+Suite 400, 1200 Bay Street, Toronto, ON M5R 2A5
+
+TAX INVOICE
+
+Invoice Number: AC-INV-8821
+Date: February 3, 2025
+Payment Due: March 5, 2025
+
+Vendor: Alpha Consulting Group Inc.
+
+Billed To:
+Lakeside Finance Corp.
+900 King West, Toronto ON M5V 3G4
+
+Services Rendered:
+  Financial Risk Assessment (Q4 2024)     $4,500.00
+  Regulatory Compliance Review            $2,800.00
+  Board Report Preparation                $1,200.00
+
+Subtotal:          $8,500.00
+HST (13%):         $1,105.00
+Grand Total:       $9,605.00
+
+Please remit payment to: accounts@alphaconsulting.ca
+PO Number: PO-2024-LC-009

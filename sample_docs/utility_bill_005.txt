@@ -1,0 +1,32 @@
+NATIONAL GRID ELECTRIC
+Albany, NY 12201
+1-800-867-5309 | nationalgrid.com
+
+ELECTRIC SERVICE BILL
+
+Account Number: NG-77-0098-44321
+Service Address: 34 Pine Street, Albany NY 12207
+Customer Name: Patricia Gomez
+
+Billing Period: Jan 3, 2025 – Feb 2, 2025 (30 days)
+Statement Date: Feb 3, 2025
+Due Date: Feb 24, 2025
+
+Usage Summary:
+  kWh Used This Period: 612 kWh
+  kWh Used Same Period Last Year: 589 kWh
+
+Delivery Charges:
+  Customer Charge:           $18.00
+  Energy Delivery (612 kWh): $56.30
+
+Supply Charges:
+  Energy Supply (612 kWh × $0.089): $54.47
+
+Taxes & Fees:
+  State & Local Taxes:        $9.22
+  Revenue-Based Pilots:        $1.44
+
+Amount Due: $139.43
+
+Budget Billing Plan: Enrolled. Estimated monthly: $141.00

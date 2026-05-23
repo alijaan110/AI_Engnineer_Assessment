@@ -1,0 +1,15 @@
+Sunrise Consulting Group
+789 Park Blvd, Chicago IL
+
+INVOICE No: INV-5678
+Date: March 3, 2025
+
+Bill To: Horizon Tech Inc.
+
+Services Rendered:
+  UI/UX Design - 20 hrs @ $80/hr     $1,600.00
+  Backend API Development             $800.00
+
+Total Due: $2,400.00
+
+Please remit payment within 30 days.

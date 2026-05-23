@@ -1,0 +1,26 @@
+CLOUDWARE TECHNOLOGIES
+789 Silicon Avenue, San Francisco CA 94105
+EIN: 47-1234567
+
+INVOICE
+
+Invoice #: CWT-2025-JAN-114
+Date: January 10, 2025
+Due Date: January 25, 2025
+
+Bill To:
+DataVault Inc.
+3900 Freedom Circle, Santa Clara CA 95054
+
+Line Items:
+  SaaS Platform License (Annual)              $12,000.00
+  Premium Support Package                      $3,600.00
+  Onboarding & Training (8 hrs)                $1,600.00
+  Custom API Integration                       $2,800.00
+
+Subtotal:                                    $20,000.00
+Discount (10%):                              -$2,000.00
+Sales Tax (9.25%):                            $1,665.00
+Total Amount Due:                            $19,665.00
+
+ACH / Wire: Chase Bank | Routing: 021000021 | Acct: 9876543210

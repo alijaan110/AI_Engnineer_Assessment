@@ -1,0 +1,20 @@
+John Doe
+john.doe@email.com | (123) 456-7890 | linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven software engineer with 5 years of experience building scalable web applications.
+
+WORK EXPERIENCE
+
+Senior Software Engineer — TechCorp Inc. (2022 – Present)
+  - Led migration of monolithic app to microservices architecture
+  - Reduced API response time by 40%
+
+Software Engineer — StartupXYZ (2020 – 2022)
+  - Built React frontend and Node.js backend for SaaS product
+
+EDUCATION
+Bachelor of Science in Computer Science — State University, 2020
+
+SKILLS
+Python, JavaScript, React, Node.js, PostgreSQL, Docker, AWS
