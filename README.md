@@ -1,4 +1,4 @@
-# Document AI — Local Intelligent Document Processing System
+# AI Engineer Assessment — Local Intelligent Document Processing System
 
 A fully **offline**, open-source AI system that ingests PDF/TXT documents, classifies them, extracts structured fields, and enables semantic search — all without any paid or hosted AI APIs.
 
